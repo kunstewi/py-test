@@ -1,0 +1,1 @@
+print("Hello,\n\tWelcome to Python!\n\tLet's learn together.")
