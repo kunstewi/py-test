@@ -1,6 +1,11 @@
 # Use itertools.product to avoid nested loops (Introduction).
 
 """
+itertools is a built-in Python module that provides tools to create and work with iterators efficiently.
+
+It does not store data in memory.
+It generates values lazily (one at a time).
+
 itertools.product() gives you the Cartesian product of iterables.
 It generates all combinations, just like nested loops would.
 """
